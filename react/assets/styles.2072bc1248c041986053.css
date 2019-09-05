@@ -1,0 +1,18 @@
+.index__hello___XeLhK {
+    color: red;
+    font-size: 40px;
+    /* background: url('../images/scene.png'); */
+}
+.index__test-less___rNGiN {
+  margin-top: 200px;
+  width: 200px;
+  height: 200px;
+  color: #444445;
+  font-size: 60px;
+  -webkit-transform: rotate(50deg);
+          transform: rotate(50deg);
+  background: url(/assets/2ba1b5a32a26c86f7fd17ae4f85bb377.png);
+}
+
+
+/*# sourceMappingURL=styles.2072bc1248c041986053.css.map*/
